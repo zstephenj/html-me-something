@@ -1,0 +1,9 @@
+body, myname {font-family: 'Abel';font-size: 18px;background-color: maroon; border: 66px solid black; color: white;margin: auto;}
+body{}
+h1 {font-size: 38px;}
+h2 {font-size: 28px;}
+h1,h2{padding-left: 88px;}
+p {text-indent: 32px;padding-left: 88px;padding-right: 88px;padding-bottom: 10px;}
+.center {display: block;margin-left: auto;margin-right: auto;}
+.center2 {text-align: center;}
+myname {color: black;}
